@@ -3,8 +3,6 @@
 # ICS3O0
 # Flappy Bird Using Python's Pygame Library
 
-# IMPORTANT -> MAKE SURE ALL MEDIA FILES ARE LOCATED IN THE SAME FOLDER AS THE .py FILE
-
 # Import Libraries:
 import pygame
 import random
